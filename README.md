@@ -68,4 +68,3 @@ repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
             ["WebhookUrl"] = "",
         }
     }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KEVZHUO-RB/Kaitan-kzrb2/main/BananaCat-kaitunBF.lua"))()
