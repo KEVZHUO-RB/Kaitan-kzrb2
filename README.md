@@ -1,6 +1,6 @@
 --[[
 
-    Blox Fruits Script
+    Kaitun Kevzhuo-RB
 
     Created based on research of game mechanics and existing script examples
 
